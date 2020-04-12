@@ -1,0 +1,24 @@
+{
+  "name": "oxygen",
+  "version": "1.0.0",
+  "description": "Minecraft University's tutorial bot. Includes basic discord bot features.",
+  "main": "server.js",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCUniversity/oxygen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MCUniversity/oxygen/issues"
+  },
+  "homepage": "https://github.com/MCUniversity/oxygen#readme"
+}
